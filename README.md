@@ -14,7 +14,7 @@ I'm finding a job!
 ### 💡 About Me 💡
 <a href="https://motivate-dev.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-red?style=flat-square&logo=Tech-Blog&logoColor=white"/></a> <a href="https://www.instagram.com/woo_jin911/" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/ak2j38@gmail.com-yellow?style=flat-square&logo=GMail&logoColor=white"/> 
 
-
+ 
 <!--
 **ak2j38/ak2j38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
