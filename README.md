@@ -3,7 +3,7 @@
    
 ### Hi there, I'm WooJin 👋  
 I'm Junior Backend-Developer!   
-I'm finding a job!     
+I'm finding a job!      
 
     
     
