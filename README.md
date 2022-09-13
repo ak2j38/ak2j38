@@ -12,7 +12,7 @@ I'm finding a job!
   
    
 ### 💡 About Me 💡 
-<a href="https://velog.io/@ak2j38" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-red?style=flat-square&logo=Tech-Blog&logoColor=white"/></a> <a href="https://www.instagram.com/woo_jin911/" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/ak2j38@gmail.com-yellow?style=flat-square&logo=GMail&logoColor=white"/> 
+<a href="https://motivate-dev.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-red?style=flat-square&logo=Tech-Blog&logoColor=white"/></a> <a href="https://www.instagram.com/woo_jin911/" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/ak2j38@gmail.com-yellow?style=flat-square&logo=GMail&logoColor=white"/> 
   
   
 [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ak2j38&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
