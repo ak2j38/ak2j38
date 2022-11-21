@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=120&section=header&text=new&nbsp;&nbsp;Developer("Park")&#59;&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=120&section=header&text=Backend&nbsp;&nbsp;Developer&fontSize=70)
          
    
 ### Hi there, I'm WooJin 👋  
 I'm Junior Backend-Developer!     
-I'm finding a job!      
 
      
      
